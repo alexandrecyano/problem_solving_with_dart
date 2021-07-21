@@ -1,3 +1,3 @@
 # Data Structures and Algorithms in Dart
 
-[Linear Search](/linear_search.dart)
+[Linear Search](/code_base/linear_search.dart)
