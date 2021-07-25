@@ -29,7 +29,6 @@ int binarySearch(List<int> arr, int target) {
   while (min <= max) {
     int mid = ((min + max) / 2).floor();
     if (target == arr[mid]) {
-      print(mid);
       return mid;
     } else if (target < arr[mid]) {
       max = mid - 1;
