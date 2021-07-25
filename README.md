@@ -3,3 +3,6 @@
 [1 - Linear Search](/code_base/linear_search.dart)
 
 [2 - Binary Search](/code_base/binary_search.dart)
+
+[3 - Leetcode - Two Sum II - (Two Pointer solution by Neetcode)](/code_base/two_sum_2.dart)
+
