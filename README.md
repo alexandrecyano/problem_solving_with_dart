@@ -1,4 +1,4 @@
-# Algorithms in Dart
+#   Problem Solving with Dart
 
 [1 - Linear Search](/code_base/linear_search.dart)
 
