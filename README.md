@@ -8,4 +8,7 @@
 
 [4 - Leetcode - Missing Number](/code_base/missing_number.dart)
 
+[5 - Leetcode - Longest Consecutive Sequence](/code_base/longest_consecutive_sequence.dart)
+
+
 
