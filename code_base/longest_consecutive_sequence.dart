@@ -27,16 +27,7 @@ import 'dart:math';
 void main() {
   longestConsecutive([0, 3, 7, 2, 5, 8, 4, 6, 0, 1]); // 9
   longestConsecutive([100, 4, 200, 1, 3, 2]); //4
-  longestConsecutive([
-    1,
-    2,
-    3,
-    10,
-    8,
-    4,
-    22,
-    5,
-  ]); // 5
+  longestConsecutive([ 1,2, 3, 10,8, 4, 22, 5,]); // 5
 }
 
 int longestConsecutive(List<int> nums) {
@@ -50,7 +41,7 @@ int longestConsecutive(List<int> nums) {
       while (numSet.contains(n + lenght)) {
         lenght += 1;
       }
-      longest = [lenght, longest].reduce(max);
+      longest = max(lenght, longest);
     }
   }
   return longest;
