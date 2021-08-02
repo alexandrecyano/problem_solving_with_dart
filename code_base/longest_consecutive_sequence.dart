@@ -50,7 +50,7 @@ int longestConsecutive(List<int> nums) {
       while (numSet.contains(n + lenght)) {
         lenght += 1;
       }
-      longest = [lenght, longest].reduce(max);
+      longest = max(lenght, longest);
     }
   }
   return longest;
