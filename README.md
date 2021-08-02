@@ -10,5 +10,6 @@
 
 [5 - Leetcode - Longest Consecutive Sequence](/code_base/longest_consecutive_sequence.dart)
 
+[6 - Leetcode - 121. Best Time to Buy and Sell Stock](/code_base/best_time_to_bu_and_sell_stock.dart)
 
 
