@@ -21,3 +21,20 @@ Explanation: There are three ways to climb to the top.
 
 */
 
+void main() {
+  climbingStairs(2); // 2
+  climbingStairs(5); // 8
+}
+
+int climbingStairs(int num) {
+  int one = 1;
+  int two = 1;
+
+  for (int i = 0; i < num - 1; i++) {
+    int temp = one;
+
+    one = one + two;
+    two = temp;
+  }
+  return one;
+}
