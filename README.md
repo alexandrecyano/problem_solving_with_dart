@@ -10,6 +10,6 @@
 
 [5 - Leetcode - Longest Consecutive Sequence](/code_base/longest_consecutive_sequence.dart)
 
-[6 - Leetcode - 121. Best Time to Buy and Sell Stock](/code_base/best_time_to_buy_and_sell_stock.dart)
+[6 - Leetcode - Best Time to Buy and Sell Stock](/code_base/best_time_to_buy_and_sell_stock.dart)
 
-[7 - Leetcode 11 - Container With Most Water](/code_base/container_with_most_water.dart)
+[7 - Leetcode  - Climbing Stairs](/code_base/climbing_stairs.dart)
