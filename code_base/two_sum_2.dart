@@ -23,11 +23,7 @@ Example 3:
 Input: numbers = [-1,0], target = -1
 Output: [1,2]
 
-=================================================
 
-Check the explanation for the approach on neetcode youtube channel
-https://www.youtube.com/watch?v=cQ1Oz4ckceM&list=PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_&index=10
-================================================
 
 */
 
