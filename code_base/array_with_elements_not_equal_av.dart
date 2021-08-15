@@ -23,9 +23,12 @@ When i=1, nums[i] = 7, and the average of its neighbors is (9+6) / 2 = 7.5.
 When i=2, nums[i] = 6, and the average of its neighbors is (7+2) / 2 = 4.5.
 When i=3, nums[i] = 2, and the average of its neighbors is (6+0) / 2 = 3.
 
-*/
 
-//The approach is little different to the examples given, so output will be different from the examples as it changes [1, 2, 3, 4, 5] to [1, 5, 2, 4, 3].
+The approach is little different to the examples given, so output will be different from the examples as it changes [1, 2, 3, 4, 5] to [1, 5, 2, 4, 3]
+and [6, 2, 0, 9, 7] to [0, 9, 2, 7, 6]
+
+
+*/
 
 void main() {
   rearrangeArray([3, 1, 2, 4, 5]);
