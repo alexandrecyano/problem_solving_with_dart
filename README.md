@@ -16,3 +16,6 @@
 
 [8 - Leetcode  - Array With Elements Not Equal to Average of Neighbors](/code_base/array_with_elements_not_equal_av.dart)
 
+[9 - Leetcode 605. Can Place Flowers](/code_base/can_place_flowers.dart)
+
+
