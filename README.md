@@ -1,5 +1,7 @@
 #   Leetcode Problem Solving with Dart
 
+##   Module 1 : - Generic - Mostly Arrays.
+
 [1 - Linear Search](/code_base/linear_search.dart)
 
 [2 - Binary Search](/code_base/binary_search.dart)
@@ -17,5 +19,10 @@
 [8 - Leetcode 1968 [Medium] - Array With Elements Not Equal to Average of Neighbors](/code_base/array_with_elements_not_equal_av.dart)
 
 [9 - Leetcode 605 [Easy]. Can Place Flowers](/code_base/can_place_flowers.dart)
+
+[10 - Leetcode 007 [Medium]. Reverse Integer][codeBase](https://leetcode.com/problems/reverse-integer/)(/code_base/reverse_integer.dart)
+
+
+
 
 
