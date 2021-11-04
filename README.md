@@ -20,7 +20,7 @@
 
 [9 - Leetcode 605 [Easy]. Can Place Flowers](/code_base/can_place_flowers.dart)
 
-[10 - Leetcode 007 [Medium]. Reverse Integer][Solution](/code_base/reverse_integer.dart)[codeBase](https://leetcode.com/problems/reverse-integer/)
+[10 - Leetcode 007 [Medium]. Reverse Integer](/code_base/reverse_integer.dart)
 
 
 

@@ -23,8 +23,6 @@ Example 3:
 Input: numbers = [-1,0], target = -1
 Output: [1,2]
 
-
-
 */
 
 void main() {
