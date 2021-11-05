@@ -29,7 +29,7 @@
 
 ## Binary Tree Problems
 
-[1 - Leetcode 206 [Easy] - Reverse Linked List](/code_base/reverse_linked_list.dart.dart)
+[1 - Leetcode 206 [Easy] - Reverse Linked List](/code_base/reverse_linked_list.dart)
 
 
 ## Graph Problems
