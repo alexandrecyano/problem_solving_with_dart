@@ -18,11 +18,6 @@ Given the root of a binary tree, return the leftmost value in the last row of th
 
 import 'dart:collection';
 
-class Node<T> {
-  final T value;
-  Node<T>? left, right;
-  Node(this.value, {this.left, this.right});
-}
 
 void main() {
   Node y = Node(2, left: Node(3), right: Node(5));
@@ -34,6 +29,14 @@ void main() {
   Solution.findBottomLeftValue(root); //Call function to solve the problem.
 
 }
+
+
+class Node<T> {
+  final T value;
+  Node<T>? left, right;
+  Node(this.value, {this.left, this.right});
+}
+
 
 class Solution {
   static int findBottomLeftValue(Node inputRoot) {
