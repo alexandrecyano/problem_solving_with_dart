@@ -24,13 +24,11 @@
 
 ## LinkedList Problems
 
-[1 - Leetcode 513 [Medium] - Find Bottom Left Tree Value](/code_base/find_bottom_left_tree_value.dart)
-
+[1 - Leetcode 206 [Easy] - Reverse Linked List](/code_base/reverse_linked_list.dart)
 
 ## Binary Tree Problems
 
-[1 - Leetcode 206 [Easy] - Reverse Linked List](/code_base/reverse_linked_list.dart)
-
+[1 - Leetcode 513 [Medium] - Find Bottom Left Tree Value](/code_base/find_bottom_left_tree_value.dart)
 
 ## Graph Problems
 [1 - Leetcode 207 [Medium] - Course Schedule](/code_base/course_schedule.dart)
