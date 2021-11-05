@@ -1,5 +1,18 @@
 /*
 Given the root of a binary tree, return the leftmost value in the last row of the tree.
+  
+  Example:
+   
+          8
+         / \
+        2   5
+      / \  / \
+     3  5  1  9
+             / \
+             11 15
+   
+   Answer is 11.
+   
 
 */
 
@@ -17,22 +30,9 @@ void main() {
   Node z = Node(5, left: Node(1), right: k);
   Node root = Node(8, left: y, right: z);
 
-  /*
-   
-          8
-         / \
-        2   5
-      / \  / \
-     3  5  1  9
-             / \
-             11 15
-   
-   Answer is 11.
-   */
+ 
+  Solution.findBottomLeftValue(root); //Call function to solve the problem.
 
-  Solution.findBottomLeftValue(root);
-
-  //print(car.left!.value);
 }
 
 class Solution {
