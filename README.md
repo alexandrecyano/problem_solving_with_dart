@@ -1,6 +1,6 @@
 #   Algorithms with Dart
 
-##   Module 1 : - Generic - Mostly Arrays.
+ ## Generic - Mostly Arrays.
 
 [Linear Search](/code_base/linear_search.dart)
 
