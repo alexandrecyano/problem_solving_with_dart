@@ -1,6 +1,6 @@
 #   Algorithms with Dart
 
-##   Module 1 : - Generic - Mostly Arrays.
+ Generic - Mostly Arrays.
 
 [Linear Search](/code_base/linear_search.dart)
 
@@ -22,15 +22,15 @@
 
 [Leetcode 007 [Medium]. Reverse Integer](/code_base/reverse_integer.dart)
 
-##   Module 2: - LinkedList Problems
+LinkedList Problems
 
 [Leetcode 206 [Easy] - Reverse Linked List](/code_base/reverse_linked_list.dart)
 
-##   Module 3: - Binary Tree Problems
+Binary Tree Problems
 
 [Leetcode 513 [Medium] - Find Bottom Left Tree Value](/code_base/find_bottom_left_tree_value.dart)
 
-##   Module 4: - Graph Problems
+Graph Problems
 
 [Undirected Path - Return true if the path exist](/code_base/undirect_path.dart)
 
