@@ -32,7 +32,7 @@
 
 ## Graph Problems
 
-[Undirected Path - Return a boolean if the path exist](/code_base/undirect_path.dart)
+[Undirected Path - Return true if the path exist](/code_base/undirect_path.dart)
 
 [Leetcode 207 [Medium] - Course Schedule](/code_base/course_schedule.dart)
 
