@@ -1,4 +1,4 @@
-#   Leetcode Problem Solving with Dart
+#   Algorithms with Dart
 
 ##   Module 1 : - Generic - Mostly Arrays.
 
