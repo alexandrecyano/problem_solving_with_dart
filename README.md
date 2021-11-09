@@ -22,15 +22,15 @@
 
 [Leetcode 007 [Medium]. Reverse Integer](/code_base/reverse_integer.dart)
 
-## LinkedList Problems
+##   Module 2: - LinkedList Problems
 
 [Leetcode 206 [Easy] - Reverse Linked List](/code_base/reverse_linked_list.dart)
 
-## Binary Tree Problems
+##   Module 3: - Binary Tree Problems
 
 [Leetcode 513 [Medium] - Find Bottom Left Tree Value](/code_base/find_bottom_left_tree_value.dart)
 
-## Graph Problems
+##   Module 4: - Graph Problems
 
 [Undirected Path - Return true if the path exist](/code_base/undirect_path.dart)
 
