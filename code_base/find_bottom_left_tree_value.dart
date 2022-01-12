@@ -37,21 +37,19 @@ class Node<T> {
   Node(this.value, {this.left, this.right});
 }
 
-
 class Solution {
   static int findBottomLeftValue(Node inputRoot) {
     var queue = Queue<Node>();
     queue.add(inputRoot);
 
     Node leftmost = inputRoot;
-
+    
     while (queue.isNotEmpty) {
       leftmost = queue.removeFirst();
-
+      
       if (leftmost.right != null) queue.add(leftmost.right!);
       if (leftmost.left != null) queue.add(leftmost.left!);
     }
-    print(leftmost.value);
     return leftmost.value;
   }
 }
